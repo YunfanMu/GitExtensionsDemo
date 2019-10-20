@@ -1,0 +1,2 @@
+# GitExtensionsDemo
+用来做使用GitExtensions的测试仓库
